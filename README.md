@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="321" src="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1753026846/avp45xe4vthpoubjw8b4.jpg"  />
+  <img height="233" src="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1753041096/roq0vnmiwdmyhz8ruspn.jpg"  />
 </div>
 
 ###
@@ -21,7 +21,7 @@
 
 ###
 
-<h1 align="left">hey there 👋</h1>
+<h1 align="left">hey there 👋.........I am Tanay Roy</h1>
 
 ###
 
@@ -64,6 +64,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tanoidd/Tanoidd/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Tanoidd/Tanoidd/output/pacman-contribution-graph.svg">
 </picture>
-
 
 ###
